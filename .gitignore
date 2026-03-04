@@ -4,3 +4,6 @@
 # ignore artifacts and data directories
 /artifacts/*
 /data/*
+
+# Ignore .env files inside the music-orchestrator and suno-api directories
+/music-orchestrator/*.env
