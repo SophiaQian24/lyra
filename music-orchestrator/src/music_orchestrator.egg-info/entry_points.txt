@@ -1,0 +1,2 @@
+[console_scripts]
+lyra = lyra_orchestrator.cli:app
