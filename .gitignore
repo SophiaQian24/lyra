@@ -1,0 +1,6 @@
+# Ignore all files in the sunoapi directory
+/sunoapi/*
+
+# ignore artifacts and data directories
+/artifacts/*
+/data/*
